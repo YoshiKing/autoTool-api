@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: MyString
+  site_id: MyString
+  usable_flg: MyString
+  del_flg: MyString
+
+two:
+  user_id: MyString
+  site_id: MyString
+  usable_flg: MyString
+  del_flg: MyString
